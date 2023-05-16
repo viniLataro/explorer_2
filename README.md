@@ -1,7 +1,7 @@
 # explorer_2
 explorer_2 is a simple HTML and CSS project designed for practice and studying purposes. 
 
-- https://vinilataro.github.io/explorer_1/
+- https://vinilataro.github.io/explorer_2/
 
 # ⚡️ Technologies
 
